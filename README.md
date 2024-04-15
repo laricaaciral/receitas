@@ -1,4 +1,3 @@
 # receitas
-Cadastro de receitas e filtro por ingredientes
-
-Cadastrar receitas, separando por ingredientes e modo de preparo, classificando os ingredientes por tipos para que possibilite a busca de receitas filtrando ingredientes. 
+Este é um repositorio para um trabalho da matéria de Programação Web do curso de Análise e Desenvilvomento de Sistemas.
+Neste trabalho faremos uma ferramenta para cadastrar receitas, separando por ingredientes e modo de preparo, classificando os ingredientes por tipos para que seja possivel a busca de receitas filtrando por ingredientes. 
